@@ -67,6 +67,8 @@ This analysis aims to uncover the different customers segments, purchase trends 
 3. Which city has the largest tax percent/ VAT (**Value Added Tax**)? 
 4. Which customer type pays the most in VAT?
 
+**Project Video**
+
 
 
 

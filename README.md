@@ -70,5 +70,8 @@ This analysis aims to uncover the different customers segments, purchase trends 
 **Project Video**
 
 
+https://github.com/abdullahayub/Walmart-Sales-Data-Analysis-SQL/assets/37545634/550b2dce-743f-4f4e-9093-1ce530f6d849
+
+
 
 
